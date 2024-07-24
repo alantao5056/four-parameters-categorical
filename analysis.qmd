@@ -30,3 +30,4 @@ nes |>
   )) -> nes_92
 ```
 
+The question is: What was the relationship between sex and voting in the 1992 US Presidential election among supporters of the three leading candidates: Clinton, Bush and Perot? I have looked at the preceptor table, examined validity, the population table, stability, representativeness, and unconfoundedness. 
